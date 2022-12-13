@@ -17,5 +17,9 @@
 <p>Screen shots are also included for people that are visual or need to see a step-by-step, they are followed exactly along with the steps like step one image goes with step one in these instructions and etc.</p>
 <p>Tested distros so far that are known to work with this method is, if a boot/grub/i386-pc folder exists have been Zorin os 16.1 lite and Xubuntu 22.04 lts. Others may or may not work well depending on if a boot/grub/i386-pc exists.</p>
 <p>Added this machine to the linux hardware database https://linux-hardware.org/?probe=a7fd50fcb0 as proof that this machine was able boot and install xubuntu 22.04 lts with this workaround.</p>
+<h1>Getting wifi and audio to work on bmax plus b1</h1>
+<p>Steps on getting wifi workling</p>
+<p>Do sudo ./installbmaxplusb1drivers.sh in order to install wifi drivers and auto install audio patch</p>
+<p>Also to install rtl8812bu drivers and bmaxplusb1 drivers do sudo ./installbmaxplusb1driversplusrtl8812bu.sh when cd to folder location of this script applies for the other script just for wifi and audio</p>
 </body>
 </html>
