@@ -20,6 +20,6 @@
 <h1>Getting wifi and audio to work on bmax plus b1</h1>
 <p>Steps on getting wifi workling</p>
 <p>Do sudo ./installbmaxplusb1drivers.sh in order to install wifi drivers and auto install audio patch</p>
-<p>Also to install rtl8812bu drivers and bmaxplusb1 drivers do sudo ./installbmaxplusb1driversplusrtl8812bu.sh when cd to folder location of this script applies for the other script just for wifi and audio</p>
+<p>Also to install rtl8812bu drivers and bmaxplusb1 drivers do sudo ./installbmaxplusb1driversplusrtl8812bu.sh when cd to folder location of this script applies for the other script just for wifi and audio. Audio only works on hdmi for now :(</p>
 </body>
 </html>
